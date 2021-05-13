@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hey, I'm Niag :v:
 
-<!--
-**niagalves/niagalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:brazil: Brazilian
 
-Here are some ideas to get you started:
+:computer: Front-end developer 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:fire: Open source
+
+:rocket: Constantly learning new skills
+
+### Find me :earth_americas:
+
+[LinkedIn](https://www.linkedin.com/in/niagalves/) | 
+[Twitter](https://twitter.com/niagalves/) | 
+[Facebook](https://www.facebook.com/niagalves/) | 
+[Instagram](https://www.instagram.com/niagalves/)
