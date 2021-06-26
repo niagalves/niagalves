@@ -1,9 +1,5 @@
 ### Hey, I'm Niag :v:
 
-<a href="https://github.com/niagalves/niagalves">
-  <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niagalves&hide=html,css,scss&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
 :brazil: Brazilian
 
 :computer: Front-end developer 
