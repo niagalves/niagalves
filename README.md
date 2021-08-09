@@ -1,10 +1,10 @@
-### Hey, I'm Niag.
+### Hey, I'm Niag :smile:
 
-:computer: Front-end developer 
+:computer: Front-end developer. 
 
-:fire: Open source
+:fire: Open source.
 
-:rocket: Constantly learning new skills
+:rocket: Constantly learning new skills.
 
 ### :earth_americas: Find me
 
