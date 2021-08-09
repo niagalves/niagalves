@@ -8,10 +8,6 @@
 
 :rocket: Constantly learning new skills
 
-  <a href="https://github.com/niagalves" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=niagalves&show_icons=true&layout=compact&theme=chartreuse-dark&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niagalves&layout=compact&langs_count=7&theme=chartreuse-dark&hide=html,css" />
-
 ### Find me :earth_americas:
 
 <div> 
@@ -27,4 +23,12 @@
   <a href="https://www.instagram.com/niagalves/" target="_blank" title="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
+</div>
+
+##
+
+<div>
+  <a href="https://github.com/niagalves" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=niagalves&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niagalves&layout=compact&langs_count=7&theme=chartreuse-dark&hide=html,css" />
 </div>
