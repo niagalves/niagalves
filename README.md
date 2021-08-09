@@ -1,6 +1,4 @@
-### Hey, I'm Niag :v:
-
-:brazil: Brazilian
+### Hey, I'm Niag.
 
 :computer: Front-end developer 
 
@@ -8,7 +6,7 @@
 
 :rocket: Constantly learning new skills
 
-### Find me :earth_americas:
+### :earth_americas: Find me
 
 <div> 
   <a href="https://www.linkedin.com/in/niagalves/" title="Linkedin" style="text-decoration: none;">
