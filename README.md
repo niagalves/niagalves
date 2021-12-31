@@ -1,5 +1,3 @@
-### Hey, I'm Niag :smile:
-
 :computer: Front-end developer. 
 
 :fire: Open source.
