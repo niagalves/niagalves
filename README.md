@@ -2,8 +2,6 @@
 
 :fire: Open source.
 
-:rocket: Constantly learning new skills.
-
 ### :earth_americas: Find me
 
 <div> 
