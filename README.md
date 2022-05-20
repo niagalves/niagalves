@@ -1,7 +1,3 @@
-:computer: Front-end developer. 
-
-:fire: Open source.
-
 ### :earth_americas: Find me
 
 <div> 
